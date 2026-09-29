@@ -3,7 +3,7 @@
 <div align = "center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 100px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 100px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 100px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics, Data Engineering & MS Power Platform.<br><br>🌱 I’m currently learning Python, R, Power BI and SQL.<br><br>👯 I’m looking to collaborate with Businesses and Developers.<br><br>👨‍💻 All of my projects are available at https://bit.ly/hasira-website<br><br>💬 Ask me about Python, Power Platform etc.<br><br>📫 How to reach me hasirakoswatta09@gmail.com
+🔭 I’m currently working on Data Analytics, Data Engineering & MS Power Platform.<br><br>🌱 I’m currently learning Python, R, Power BI and SQL.<br><br>👯 I’m looking to collaborate with Businesses and Developers.<br><br>👨‍💻 All of my projects are available at https://savi-birthday.vercel.app/<br><br>💬 Ask me about Python, Power Platform etc.<br><br>📫 How to reach me vidulapriyamal00@gmail.com
 
 
 ## 🌐 Socials:
