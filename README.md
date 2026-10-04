@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidula-01&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hasira09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vidula-01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=vidula-01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
